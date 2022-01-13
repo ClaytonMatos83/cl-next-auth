@@ -1,0 +1,38 @@
+{
+  "name": "my-next-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "axios": "^0.23.0",
+    "init": "^0.1.2",
+    "jwt-decode": "^3.1.2",
+    "next": "11.1.2",
+    "nookies": "^2.5.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "styled-components": "^5.3.1",
+    "webpack-dev-server": "^4.3.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.15.7",
+    "@babel/core": "^7.15.8",
+    "@babel/preset-env": "^7.15.8",
+    "@babel/preset-react": "^7.14.5",
+    "@types/react": "^17.0.27",
+    "babel-loader": "^8.2.2",
+    "css-loader": "^6.4.0",
+    "eslint": "7.32.0",
+    "eslint-config-next": "11.1.2",
+    "html-webpack-plugin": "^5.4.0",
+    "style-loader": "^3.3.0",
+    "typescript": "^4.4.3",
+    "webpack": "^5.58.2",
+    "webpack-cli": "^4.9.0"
+  }
+}
